@@ -4,4 +4,4 @@ Ova dokumentacija služi u svrhu primene Pandoca za komverziju datoteka, odnosno
 1. 🥎 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 2. 🥓 [Uvod u Pandoc](docs/02-pandoc-primjeri-konverzije.md)
 
-![Tux](Tux.png)
+<img src="Tux.png" width="30%>
